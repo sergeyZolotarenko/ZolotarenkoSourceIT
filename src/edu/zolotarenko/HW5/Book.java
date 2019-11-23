@@ -3,7 +3,7 @@ package edu.zolotarenko.HW5;
 public class Book {
 	private int id;
 	private String bookTitle;
-	private String author;
+	            private String author;
 	private String publisher;
 	private int publicationDate;
 	private int numberOfPages;
